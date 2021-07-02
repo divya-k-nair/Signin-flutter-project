@@ -14,7 +14,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         home: Scaffold(
-            backgroundColor: Colors.white,
+            backgroundColor: Colors.greenAccent,
             appBar: AppBar(
               title: Text("SIGN IN"),
             ),
